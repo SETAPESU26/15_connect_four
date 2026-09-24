@@ -1,4 +1,4 @@
-# Scenario 03 — Connect Four vs AI
+# Scenario 15 — Connect Four vs AI
 
 A terminal Connect Four game with a board module, a player turn loop, and a simple AI.
 
